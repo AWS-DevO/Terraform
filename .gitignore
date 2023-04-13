@@ -1,3 +1,8 @@
+## Loacl Terraform Directory
 .terraform
+
+## terraform state file
 terraform.tfstate*
+
+##tf variable file
 terraform.tfvars*
